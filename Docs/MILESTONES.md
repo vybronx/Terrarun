@@ -20,7 +20,7 @@ This document defines the complete 14-stage proposed development roadmap (M0–M
   - Milestone roadmap (M0–M13) fully defined.
   - Initial commit contents and Git staging state verified prior to remote repository creation.
 - **Testing Requirements:** Repository structure and file inspection; pre-publication configuration review.
-- **Status:** IN PROGRESS
+- **Status:** COMPLETED (Closed with explicitly accepted historical limitation: pre-publication security review prior to public repository creation recorded as `NOT VERIFIED`).
 
 ---
 
@@ -34,7 +34,7 @@ This document defines the complete 14-stage proposed development roadmap (M0–M
 - **Acceptance Criteria:**
   - Responsive app shell with working navigation between primary screens.
 - **Testing Requirements:** Flutter widget tests for navigation and theme rendering.
-- **Status:** NOT STARTED
+- **Status:** IN PROGRESS
 
 ---
 
